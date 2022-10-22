@@ -1,2 +1,2 @@
-# lingshou
-项目架构:CDH+Hadoop + Hive + Presto + Sqoop + Oozie + MySQL
+
+以前学习python的代码
